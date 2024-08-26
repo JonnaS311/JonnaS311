@@ -1,16 +1,46 @@
-## Hi there 👋
+# ¡Hi there! 👋
 
-<!--
-**JonnaS311/JonnaS311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonnathan, a software engineer student interested on Data Science and Web Devolpment.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Lenguage:
+- **Lenguage:**
+<table>
+  <tr>
+ <td style="vertical-align: top; padding-right: 20px;">
+      <ul style="list-style-type: none;">
+        <li>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</li>
+        <li>  ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul style="list-style-type: none;">
+        <li>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</li>
+        <li>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</li>
+      </ul>
+    </td>
+  </tr>
+</table>`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks:**
+	- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+	- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+	- ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+	- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+	- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+	- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+	- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- **Development tools:** 
+	- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	-  ![Git]( https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+	- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+## 🌱 I'm currently learning:
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+
+## 📫 Connect with me
+- *Email* : Jsotelor@udistrital.edu.co
+---
+
+¡Thanks for watching my profilel! 😊
