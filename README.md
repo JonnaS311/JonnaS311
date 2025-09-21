@@ -34,7 +34,7 @@ I'm Jonnathan, a software engineering student living in *Colombia* interested on
 
 
 ## 📫 Connect with me
-- *Email* : Jsotelor@udistrital.edu.co
+- *Email* : Jsotelor@udistrital.edu.co / jhonysotelo.1015@gmail.com
 ---
 
 ¡Thanks for watching my profilel! 😊
